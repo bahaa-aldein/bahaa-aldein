@@ -29,4 +29,4 @@ Currently focused on joining a product-based company where I can work on real pr
 ## 📫 Let's Connect
 
 * **LinkedIn** — [Bahaa Aldein Abdelbadie](https://www.linkedin.com/in/bahaa-aldein-abdelbadie-26a051296/)
-* **Email** — bahaa.eldin.dev@gmail.com
+* **Email** — bahaa.aldein.dev@gmail.com
