@@ -2,9 +2,9 @@
 
 ### Full-Stack Software Engineer · Cairo, Egypt
 
-***I turn ideas into products people can actually use.***
+***I turn ideas into products — and build the systems that make them scale.***
 
-I build scalable web applications, from backend systems and APIs to polished frontend experiences. I'm particularly interested in backend engineering, system design, and building reliable software that solves real problems.
+I build web applications end to end, from backend systems and APIs to polished frontend experiences. I'm particularly interested in backend engineering, system design, and building reliable software that solves real problems.
 
 ## 🛠 Tech Stack
 
