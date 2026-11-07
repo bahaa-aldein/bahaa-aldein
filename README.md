@@ -22,5 +22,5 @@ I build web applications end to end, from backend systems and APIs to polished f
 
 ## 📫 Let's Connect
 
-- **LinkedIn** — [Bahaa Aldein Abdelbadie](https://www.linkedin.com/in/bahaa-aldein-abdelbadie-26a051296/)
+- **LinkedIn** — [Bahaa Aldein Abdelbadie](https://www.linkedin.com/in/bahaa-aldein/)
 - **Email** — [bahaa.aldein.dev@gmail.com](mailto:bahaa.aldein.dev@gmail.com)
