@@ -16,6 +16,7 @@ I build web applications end to end, from backend systems and APIs to polished f
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
+| **Nest Auth** | A secure authentication app with a production-ready Docker setup: multi-stage images, 3 API replicas behind nginx, Redis rate limiting, and CI that scans with Trivy and publishes to GHCR. | NestJS · React · TypeScript · MongoDB · Redis · Docker · GitHub Actions |
 | **Aoun AI** | An AI-powered SaaS platform for building and deploying multilingual chatbots. | Next.js · TypeScript · Redis · Stripe |
 | **LearnSphere** | A collaborative learning platform featuring real-time collaboration and AI-powered quiz generation. | Next.js · TypeScript · WebSockets |
 | **Subscription Tracker** | A backend API for managing recurring subscriptions, with authentication and automated email reminders. | Node.js · Express · TypeScript · Prisma · PostgreSQL |
