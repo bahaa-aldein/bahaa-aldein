@@ -10,7 +10,7 @@ I design and ship web products end to end, from backend architecture and APIs to
 
 - **Backend** — Node.js · Express.js · NestJS · PostgreSQL · MongoDB · Prisma · Redis · Elasticsearch · REST APIs
 - **Frontend** — React · Next.js · TypeScript · JavaScript · Tailwind CSS · Redux
-- **DevOps & Tools** — AWS · Docker · nginx · GitHub Actions · Git
+- **DevOps & Tools** — AWS · Docker · Nginx · GitHub Actions · Git
 - **Testing** — Jest · Vitest · Supertest · Playwright
 
 ## 📌 Featured Projects
