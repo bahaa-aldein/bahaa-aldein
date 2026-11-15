@@ -24,5 +24,6 @@ I design and ship web products end to end, from backend architecture and APIs to
 
 ## 📫 Let's Connect
 
+- **Portfolio** — [bahaa-aldein.com](https://bahaa-aldein.com)
 - **LinkedIn** — [Bahaa Aldein Abdelbadie](https://www.linkedin.com/in/bahaa-aldein/)
 - **Email** — [contact@bahaa-aldein.com](mailto:contact@bahaa-aldein.com)
