@@ -17,10 +17,10 @@ I design and ship web products end to end, from backend architecture and APIs to
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| **Nest Auth** | A secure authentication app with a production-ready Docker setup: multi-stage images, 3 API replicas behind nginx, Redis rate limiting, and CI that scans with Trivy and publishes to GHCR. | NestJS · React · TypeScript · MongoDB · Redis · Docker · GitHub Actions |
-| **Aoun AI** | An AI-powered SaaS platform for building and deploying multilingual chatbots. | Next.js · TypeScript · Redis · Stripe |
-| **LearnSphere** | A collaborative learning platform featuring real-time collaboration and AI-powered quiz generation. | Next.js · TypeScript · Liveblocks |
-| **Subscription Tracker** | A backend API for managing recurring subscriptions, with authentication and automated email reminders. | Node.js · Express · TypeScript · Prisma · PostgreSQL |
+| [**Nest Auth**](https://github.com/bahaa-aldein/nest-auth) | A secure auth app with a production-style Docker setup: 3 API replicas behind nginx, a shared Redis rate limit, and CI that scans images and publishes them to GHCR. | NestJS · React · TypeScript · MongoDB · Redis · Docker · GitHub Actions |
+| [**Aoun AI**](https://github.com/bahaa-aldein/Aoun-AI) | An AI chatbot SaaS where businesses train bots on their own documents and websites, then deploy them on the web, WhatsApp and Messenger. [Live demo](https://aoun-ai.vercel.app) | Next.js · TypeScript · OpenAI · Upstash Vector · Redis · Stripe |
+| [**Learn Sphere**](https://github.com/bahaa-aldein/Learn-Sphere) | A learning platform with live collaborative editing, a Q&A forum, and AI-generated, AI-graded quizzes in English and Arabic. [Live demo](https://learn-sphere-pink.vercel.app) | Next.js · TypeScript · MongoDB · Liveblocks · Stripe |
+| [**Subscription Tracker**](https://github.com/bahaa-aldein/Subscription-Tracker) | A backend API for managing recurring subscriptions, with authentication and automated email reminders. | Node.js · Express · TypeScript · Prisma · PostgreSQL |
 
 ## 📫 Let's Connect
 
