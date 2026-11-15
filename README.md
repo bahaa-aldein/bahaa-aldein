@@ -4,7 +4,7 @@
 
 ***Building products people use. Engineering systems for scale.***
 
-I build web applications end to end, from backend systems and APIs to polished frontend experiences. I'm particularly interested in backend engineering, system design, and building reliable software that solves real problems.
+I design and ship web products end to end, from backend architecture and APIs to the frontend. I’m focused on backend engineering and system design, building reliable systems that help products scale.
 
 ## 🛠 Tech Stack
 
